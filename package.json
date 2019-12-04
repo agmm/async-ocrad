@@ -1,6 +1,6 @@
 {
   "name": "async-ocrad",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Async-await wrapper for ocrad.js",
   "main": "main.js",
   "scripts": {
