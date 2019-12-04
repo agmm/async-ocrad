@@ -1,0 +1,23 @@
+{
+  "name": "async-ocrad",
+  "version": "0.0.0",
+  "description": "Async-await wrapper for ocrad.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ocr",
+    "ocrad",
+    "ocradjs",
+    "async",
+    "image",
+    "recognition"
+  ],
+  "author": "Arnaldo Gabriel",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "ocrad.js": "0.0.1"
+  }
+}
