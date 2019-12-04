@@ -1,6 +1,6 @@
 # async-ocrad
 
-> A NodeJS async-await wrapper for ocrad.js
+> A NodeJs async-await wrapper for ocrad.js
 
 ## Install
 

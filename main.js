@@ -1,5 +1,5 @@
 // async-ocrad, µLib
-// A NodeJS async wrapper for ocrad.js
+// A NodeJs async-await wrapper for ocrad.js
 
 const OCRAD = require('ocrad.js');
 const Canvas = require('canvas');
