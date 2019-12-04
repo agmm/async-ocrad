@@ -7,7 +7,7 @@ const Image = Canvas.Image;
 const fs = require('fs');
 
 async function ocrad(filename) {
-    const src = await fs.readFileSync(__dirname + '/' + filename);
+    const src = await fs.readFileSync(filename);
     const img = new Image();
     img.src = src;
 
